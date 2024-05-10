@@ -1,6 +1,6 @@
 👋 Olá! Sou o @MarcosFreitas7672, um desenvolvedor apaixonado com 2 anos de experiência no mercado de tecnologia.
 
-👨‍💻 Possuo um amplo conhecimento em diversas linguagens de programação, incluindo Java, C, HTML, CSS, JavaScript, SQL, PHP,flutter,kotlin e Python. Meu domínio nessas linguagens me permite criar soluções robustas e eficientes para uma variedade de problemas.
+👨‍💻 Possuo um amplo conhecimento em diversas linguagens de programação, incluindo Java, C, HTML, CSS, JavaScript, SQL, PHP,flutter,kotlin Python e Git/Github. Meu domínio nessas linguagens me permite criar soluções robustas e eficientes para uma variedade de problemas.
 
 🚀 Estou sempre em busca de desafios interessantes e colaborações estimulantes. Adoro trabalhar em projetos de código aberto, onde posso contribuir com meu expertise e aprender com outros desenvolvedores talentosos.
 
